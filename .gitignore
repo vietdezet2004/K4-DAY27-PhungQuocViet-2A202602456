@@ -1,6 +1,10 @@
-# Secrets — never commit
+# Secrets & Local Guides — never commit
 .env
 .env.local
+GithubPersonalAccessToken.md
+*token*
+CP*.md
+Vlearn.md
 
 # Python
 __pycache__/
